@@ -1,0 +1,20 @@
+bios
+basic input output system controls hardware and initialises computer
+RAM
+volatile memory
+ROM
+non volatile memory
+procedure
+a named block of code
+MAR
+memory address register in the cpu that stores the location of the data
+CPU
+the brain of a computer
+Cache
+memory inbetween the RAM and the CPU
+function
+a named block of code that returns a value
+Character set
+characters alongside with their unique binary values
+ASCII
+a character set that uses english symbols
