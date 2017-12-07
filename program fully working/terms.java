@@ -18,7 +18,7 @@ public class terms{
                     }
                 }
                 if(found == true){
-                System.out.println("TERM NOT FOUND");
+                System.out.println("TERM NOT FOUND lel");
                 }
             }
         }
